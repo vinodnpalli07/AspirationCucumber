@@ -1,5 +1,5 @@
 package web.aspiration.pages;
- 
+
 import org.javatuples.Pair;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -102,3 +102,4 @@ public class ProductsPage extends PageObject{
 	}
 	
 }
+
