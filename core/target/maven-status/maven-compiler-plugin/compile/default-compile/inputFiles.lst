@@ -1,6 +1,6 @@
-C:\Vinod\Tutorials\SeleniumSample\core\src\main\java\com\aspiration\framework\utils\ConfigProperties.java
-C:\Vinod\Tutorials\SeleniumSample\core\src\main\java\com\aspiration\framework\utils\Utils.java
-C:\Vinod\Tutorials\SeleniumSample\core\src\main\java\com\aspiration\framework\selenium\BaseTestHelper.java
-C:\Vinod\Tutorials\SeleniumSample\core\src\main\java\com\aspiration\framework\utils\MyRetryAnalyzer.java
-C:\Vinod\Tutorials\SeleniumSample\core\src\main\java\com\aspiration\framework\selenium\SeleniumHelper.java
-C:\Vinod\Tutorials\SeleniumSample\core\src\main\java\com\aspiration\framework\selenium\BrowserTypes.java
+C:\Users\vinagulapalli\eclipse-workspace\AspirationTest\aspiration\core\src\main\java\com\aspiration\framework\selenium\MyRetryAnalyzer.java
+C:\Users\vinagulapalli\eclipse-workspace\AspirationTest\aspiration\core\src\main\java\com\aspiration\framework\selenium\Utils.java
+C:\Users\vinagulapalli\eclipse-workspace\AspirationTest\aspiration\core\src\main\java\com\aspiration\framework\utilities\BaseTestHelper.java
+C:\Users\vinagulapalli\eclipse-workspace\AspirationTest\aspiration\core\src\main\java\com\aspiration\framework\selenium\ConfigProperties.java
+C:\Users\vinagulapalli\eclipse-workspace\AspirationTest\aspiration\core\src\main\java\com\aspiration\framework\utilities\SeleniumHelper.java
+C:\Users\vinagulapalli\eclipse-workspace\AspirationTest\aspiration\core\src\main\java\com\aspiration\framework\utilities\BrowserTypes.java

@@ -12,8 +12,7 @@ import com.aspiration.framework.utils.ConfigProperties;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.github.bonigarcia.wdm.config.DriverManagerType;
-
-//import com.automation.framework.utils.ConfigProperties;
+ 
 
 /**
  * initialization of the browser is handled in this class<br><br>
