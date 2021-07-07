@@ -73,8 +73,8 @@ public class HomePage extends PageObject{
 				lnkSpendAndSave.click();
 				break;
 			case WhoAreWe:
-				//lnkGiving.waitUntilClickable();
-				//lnkGiving.click();
+				lnkGiving.waitUntilClickable();
+				lnkGiving.click();
 				break;
 			default:
 				break; 
@@ -86,8 +86,7 @@ public class HomePage extends PageObject{
 	}	
 
 	public void enterEmailAndClickGetStarted(String emailId)
-	{
-		//driver.findElement(bytxtEmail).sendKeys(emailId);;		
+	{ 
 		txtEmail.sendKeys(emailId);
 		btnGetStarted.waitUntilClickable().click();
 	}
